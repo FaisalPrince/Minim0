@@ -1,0 +1,27 @@
+fonts--->
+
+font-family: "Playfair Display", serif;
+
+ font-family: "Ubuntu", sans-serif;
+
+
+Color-->
+ 
+      "Playfair Display", serif
+       #b4ad9e
+       #333333
+
+
+
+
+
+
+       .f_left{
+      float: left;
+}
+.f_left ul{}
+.f_left ul li{}
+.f_left ul li a{}
+
+.f_right{
+      float: right ;}
