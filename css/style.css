@@ -1,5 +1,6 @@
 /*common Css start*/
 body{
+	margin:0 0 0 0;
 	font-family: "Playfair Display", serif;
 	font-size: 16px;
 	font-weight: 400;
@@ -247,6 +248,7 @@ footer{
 	text-decoration: none;
 }
 .f_right ul li a img{} 
+
 
 
 /*Footer End*/
